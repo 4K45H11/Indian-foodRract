@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Indian-foodRract/static/css/main.8c253733.css",
+    "main.js": "/Indian-foodRract/static/js/main.84fc40d7.js",
+    "index.html": "/Indian-foodRract/index.html",
+    "main.8c253733.css.map": "/Indian-foodRract/static/css/main.8c253733.css.map",
+    "main.84fc40d7.js.map": "/Indian-foodRract/static/js/main.84fc40d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c253733.css",
+    "static/js/main.84fc40d7.js"
+  ]
+}
